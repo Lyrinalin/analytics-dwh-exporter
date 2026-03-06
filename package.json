@@ -1,5 +1,5 @@
 {
-  "name": "kryto",
+  "name": "analytics-dwh-exporter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
